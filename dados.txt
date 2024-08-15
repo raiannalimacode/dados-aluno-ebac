@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Raianna Lima. 
+-Profissão: Desenvolvedora front-end. 
+-Cidade: Porto Alegre - RS. 
+-O que faz nas horas vaga: Escuto música e treino na academia. 
+-Feedback sobre o curso Qualidade de Software: Estou aprendendo muito com o curso, este tem muitos conteúdos bons. 
+-Feedback sobre a plataforma de estudo da EBAC: Show!
 
 Obrigado!!!
 
